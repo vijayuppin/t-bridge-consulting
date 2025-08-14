@@ -1,0 +1,5 @@
+services:
+  - name: web
+    run:
+      source:
+        directory: web
